@@ -1,1 +1,1 @@
-<h2>maximum-product-of-three-numbers Notes</h2><hr>[ Time taken: 4 hrs 34 m 57 s ]
+<h2>maximum-product-of-three-numbers Notes</h2><hr>[ Time taken: 2hrs 19m 41s ]
